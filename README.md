@@ -1,4 +1,4 @@
-<h1 align="center">🔐 Password Security Analyzer</h1>
+<h1 align="center">🔐 Password Security Analyzer </h1>
 
 <p align="center">
   Security-Focused Real-Time Password Strength & Risk Analyzer
