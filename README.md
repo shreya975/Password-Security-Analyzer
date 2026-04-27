@@ -127,4 +127,3 @@ Start typing a password to see real-time analysis
 
 🖥️ Python (CLI Version)
 python main.py
-
