@@ -20,7 +20,7 @@ A modern, security-focused password strength analyzer that evaluates passwords i
   - ⚠️ Weak  
   - 🟡 Medium  
   - 🟢 Strong  
-  - 🔒 Very Strong  
+  - 🔒 Very Strong 
 
 ---
 
