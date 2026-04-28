@@ -63,7 +63,7 @@ The goal is not only to rate passwords, but to explain structural weaknesses and
 
 ---
 
-## 🖥️ Tech Stack
+## 🖥️ Tech Stack 
 
 ### Backend / Logic
 - Python
